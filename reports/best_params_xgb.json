@@ -1,0 +1,9 @@
+{
+  "model__subsample": 0.9,
+  "model__reg_lambda": 0.5,
+  "model__n_estimators": 300,
+  "model__min_child_weight": 5,
+  "model__max_depth": 3,
+  "model__learning_rate": 0.03,
+  "model__colsample_bytree": 0.9
+}

@@ -1,0 +1,27 @@
+# Python / environment
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Data 
+data/raw/*
+!data/raw/.gitkeep
+
+# MLflow / experiment logs (not needed)
+mlruns/
+
+
+

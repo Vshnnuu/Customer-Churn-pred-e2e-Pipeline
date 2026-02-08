@@ -1,0 +1,26 @@
+feature,importance
+cat__Contract_Month-to-month,0.2791984
+cat__Internet Service_Fiber optic,0.09930308
+cat__Online Security_No,0.08451053
+cat__Tech Support_No,0.06335962
+cat__Payment Method_Electronic check,0.055782706
+cat__Dependents_Yes,0.0503595
+cat__Dependents_No,0.03865025
+cat__Contract_Two year,0.034532294
+num__Tenure Months,0.021726605
+cat__Internet Service_No,0.0199414
+cat__Paperless Billing_No,0.018800955
+cat__Phone Service_Yes,0.018129688
+cat__Streaming TV_Yes,0.017939819
+cat__Streaming Movies_Yes,0.017378755
+cat__Contract_One year,0.01580418
+cat__Multiple Lines_No,0.012504371
+cat__Online Backup_No,0.012425229
+num__Monthly Charges,0.011230872
+cat__Streaming TV_No,0.010509727
+cat__Partner_No,0.009229373
+cat__Partner_Yes,0.007314896
+cat__Senior Citizen_Yes,0.0072583943
+cat__Multiple Lines_No phone service,0.0069314954
+cat__Payment Method_Bank transfer (automatic),0.0068628523
+cat__Payment Method_Credit card (automatic),0.006726265
