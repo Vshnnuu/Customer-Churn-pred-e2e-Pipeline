@@ -4,6 +4,36 @@ This project is **created for demonstrating an end-to-end machine learning pipel
 
 Instead of treating this as a single notebook experiment, my goal was to design the project simulating how real ML systems are built: configurable training, reusable preprocessing pipelines, proper evaluation,and a deployable inference API.
 
+## Try the live API
+
+Swagger UI: https://churn-prediction-pipeline.onrender.com
+
+Example request (POST `/predict`):
+```json
+{
+  "features": {
+    "Gender": "Female",
+    "Senior Citizen": 0,
+    "Partner": "No",
+    "Dependents": "No",
+    "Tenure Months": 3,
+    "Phone Service": "Yes",
+    "Multiple Lines": "No",
+    "Internet Service": "Fiber optic",
+    "Online Security": "No",
+    "Online Backup": "No",
+    "Device Protection": "No",
+    "Tech Support": "No",
+    "Streaming TV": "Yes",
+    "Streaming Movies": "Yes",
+    "Contract": "Month-to-month",
+    "Paperless Billing": "Yes",
+    "Payment Method": "Electronic check",
+    "Monthly Charges": 89.95,
+    "Total Charges": 269.85
+  }
+}
+```
 ## Explainability of the entire project
 
 A detailed explainability analysis is available here:
